@@ -1,0 +1,2 @@
+    /dev/sda1   /media/usbdrive1    exfat   defaults    0   2
+    /dev/sdb1   /media/usbdrive2    exfat   defaults    0   2
